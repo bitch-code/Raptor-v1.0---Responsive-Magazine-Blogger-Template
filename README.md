@@ -1,9 +1,9 @@
 ## Raptor v1.0 - Responsive Magazine Blogger Template
 <img width="100%" height="100%" src="https://1.bp.blogspot.com/-yda6wmhLPvI/X32QAFuUoBI/AAAAAAAAEuY/IwmWg0DsW4o6M40IcwQdB4ktWFgwfNZuwCLcBGAsYHQ/s900/raptor%2Bblogger%2Btheme.png">
 
-## Raptor v1.0 is a free responsive classy and elegantly designed magazine blogger template. This is a super fast and SEO friendly magazine blogger template with multi-functional and more advanced customizable options.
+ Raptor v1.0 is a free responsive classy and elegantly designed magazine blogger template. This is a super fast and SEO friendly magazine blogger template with multi-functional and more advanced customizable options.
 
-* Raptor Blogger theme features
+## Raptor Blogger theme features
 * 100% Responsive
 * Google Testing Tool Validator
 * SEO Friendly
